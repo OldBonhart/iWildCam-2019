@@ -1,6 +1,6 @@
 # iWildCam 2019
 
-![alt](https://github.com/Moolan12/erte/blob/master/header.png)
+![alt](https://github.com/OldBonhart/iWildCam-2019/blob/master/header.png)
 
 ---
 ### General information
