@@ -30,5 +30,3 @@ or in other words "multiclass classification problem". Using external data is al
 
 You can find the iWildCam 2019 Competition [here](https://www.kaggle.com/c/iwildcam-2019-fgvc6) or [here](https://sites.google.com/view/fgvc6/competitions/iwildcam-2019).<br/>There is a github page for the competition [here](https://github.com/visipedia/iwildcam_comp).
 
-Description:
-Kaggle competition - "iWildCam 2019"
